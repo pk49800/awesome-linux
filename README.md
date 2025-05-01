@@ -1,1 +1,1 @@
-# Linux setting and tweaks
+# Linux settings and tweaks
